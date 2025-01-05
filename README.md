@@ -1,6 +1,6 @@
 ## Inventory Management System- Sales
 
-### DashBoard
+### Dashboard
 ### Customer
 ### Category
 ### Product
