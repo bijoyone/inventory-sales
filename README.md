@@ -1,4 +1,4 @@
-## Inventory Management System- Sales.
+## Inventory Management System- Sales
 
 ### DashBoard
 ### Customer
