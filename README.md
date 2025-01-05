@@ -4,6 +4,6 @@
 ### Customer
 ### Category
 ### Product
-### Create Sales
+### Create Sale
 ### Invoice 
 ### Report 
